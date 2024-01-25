@@ -1,4 +1,4 @@
-package org.omidmohebbise.algorithms.practice2;
+package org.omidmohebbise.algorithms.search.practice2;
 
 
 import java.util.Arrays;
