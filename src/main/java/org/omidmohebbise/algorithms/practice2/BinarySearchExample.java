@@ -1,4 +1,4 @@
-package org.omidmohebbise.algorithms.practice1;
+package org.omidmohebbise.algorithms.practice2;
 
 
 import java.util.Arrays;
@@ -20,7 +20,7 @@ public class BinarySearchExample {
         int[] intArray = IntStream.generate(() -> new Random().nextInt(1, 100))
                 .limit(30)
                 .distinct().toArray();
-        System.out.println("before sort: " + Arrays.toString(intArray));
+        System.out.println("Before sort: " + Arrays.toString(intArray));
         //
 
         //binary search only worked on sorted arrays

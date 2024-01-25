@@ -2,8 +2,8 @@
 
 ## Searching Algorithms:
 
+- [x] Linear Search
 - [x] Binary Search (practice1)
-- [] Linear Search
 - [] Depth-First Search (DFS)
 - [] Breadth-First Search (BFS)
 - [] Interpolation Search
